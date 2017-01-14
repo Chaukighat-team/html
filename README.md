@@ -61,7 +61,7 @@ div.scrollmenu a:hover {
 	<div id="raju" class="tabcontent">
 	  <span onclick="this.parentElement.style.display='none'" class="topleft"><img src="http://www.pd4pic.com/images/stop-icon-theme-action-delete-cancel.png" style="hight: 33px; width: 33px;"></span>
 	  <center><h3>raju</h3></center>
-	  <div class="scrollmenu"><p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/02/5718897981_10faa45ac3_b-640x624.jpg"><img src="http://a1.mzstatic.com/us/r30/Purple5/v4/5a/2e/e9/5a2ee9b3-8f0e-4f8b-4043-dd3e3ea29766/icon256.png"style=" width: 670px;"></p></div>
+	  <div class="scrollmenu"><p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/02/5718897981_10faa45ac3_b-640x624.jpg"><img src="http://pngimg.com/upload/rose_PNG637.png"style=" width: 670px;"></p></div>
 	</div>
 
 	<div id="girja" class="tabcontent">
